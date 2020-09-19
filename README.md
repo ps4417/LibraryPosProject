@@ -1,4 +1,4 @@
-# DDOK LIBRAY(대학교 스마트 도서관 시스템)
+# DDOK LIBRARY(대학교 스마트 도서관 시스템)
 
 
 
